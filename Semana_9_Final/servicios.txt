@@ -1,0 +1,11 @@
+GAS;Sabores del Sur;25000;Cordero al palo
+GAS;Ruta del Queso;15000;Lácteos Artesanales
+
+GEN;Tour Genérico;10000
+GEN;Tour Genérico 2;15000
+
+LAC;Navegación Lago Llanquihue;50000;Catamarán
+LAC;Recorrido Bahía de Puerto Varas;45000;Lancha
+
+CUL;Ruta Patrimonial Frutillar;35000;Teatro del Lago
+CUL;Historia de Osorno;40000;Fuerte Reina Luisa

@@ -1,0 +1,6 @@
+GUI;GUI001;Ignacio Lagos;11.999.222-4;+56911112222;ilagos@llanquihuetour.cl;Guia Turístico
+GUI;GUI002;Ignacio Lagos;11.222.333-4;+56911112222;ilagos@llanquihuetour.cl;Guía de pesca
+OPE;OPE001;Antonio Vallejos;22.333.444-5;+56988887777;avallejos@llanquihuetour.cl;Camioneta;Funcional
+OPE;OPE003;Antonio Vega;12.345.654-6;+5698723672;avega@llanquihuetour.cl;Catamaran;En mantenimiento
+COL;COL001;Rocio Sanhueza;30.444.555-6;+56998765432;rsanhueza@quillonverde.cl;hotelería
+CLI;CLI001;Pablo Cleveland;97.826.375-6;+56981638257;pclever@gmail.com;Paseo Lacustre
