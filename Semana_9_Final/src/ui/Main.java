@@ -193,7 +193,9 @@ public class Main {
         String correo = solicitarDato("Correo:");
         if (correo == null) return;
 
-        String servicio = solicitarDato("------- Servicio contratado ------- \n\nPaseo Lacustre - Ruta Gastronómica\n\nExcursión Cultural - Tour Generico");
+        String servicio = solicitarDato("------- Servicio contratado ------- \n\nGastronómicos: Sabores del Sur - Ruta del queso\n\n" +
+                "Cultural: Patrimonial Furtillar - Historia de Osorno\n\nLacustre: Lago Llanquihue - Bahía de Puerto Varas\n\n" +
+                "Tour Generico: 1 - 2");
         if (servicio == null) return;
 
         Cliente cliente = new Cliente(
